@@ -53,3 +53,4 @@ en créant une nouvelle couche appelée "presentation2" qui va
 
 <p>Nous allons maintenant ajouter la classe Metier</p>
 <img src="images/img11.png">
+<br>
